@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repudiandae incidunt, earum sint dignissimos libero aliquam mollitia eius dolor repellendus fugit, ipsum repellat ipsa! Aut, quidem repudiandae reiciendis rerum assumenda cumque consectetur voluptatum laborum corrupti, cupiditate minus ad ipsum error molestiae?",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Opening Party!",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repudiandae incidunt, earum sint dignissimos libero aliquam mollitia eius dolor repellendus fugit, ipsum repellat ipsa! Aut, quidem repudiandae reiciendis rerum assumenda cumque consectetur voluptatum laborum corrupti, cupiditate minus ad ipsum error molestiae?",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Hare krishna",
+      "body": "Chanting Krishna maha mantra gives peace",
+      "author": "modi",
+      "id": 3
+    }
+  ]
+}
